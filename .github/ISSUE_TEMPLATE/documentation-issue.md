@@ -2,7 +2,7 @@
 name: Documentation Issue
 about: Use to report issues with the documentation
 title: ''
-labels: documentation
+labels: bug, documentation, Lua
 assignees: microlan
 
 ---
